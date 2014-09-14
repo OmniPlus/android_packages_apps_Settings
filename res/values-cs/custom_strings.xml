@@ -16,7 +16,7 @@
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
     <!-- About phone screen,  setting option name-->
-    <string name="mod_version">Verze Omni</string>
+    <string name="mod_version">Verze OmniPlus</string>
     <string name="mod_version_default">Neznámá</string>
 
     <!-- Main list strings -->
