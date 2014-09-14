@@ -14,7 +14,7 @@
      limitations under the License.
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-    <string name="mod_version">Omni-version</string>
+    <string name="mod_version">OmniPlus-version</string>
     <string name="mod_version_default">Okänd</string>
     <string name="header_category_interface">Gränssnitt</string>
     <string name="performance_settings">Prestanda</string>
