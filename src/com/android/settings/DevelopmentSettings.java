@@ -581,7 +581,7 @@ public class DevelopmentSettings extends RestrictedSettingsFragment
             }
         }
         resetDebuggerOptions();
-	resetRootAccessOptions();
+
         resetAdvancedRebootOptions();
 	resetDevelopmentShortcutOptions();
         writeAnimationScaleOption(0, mWindowAnimationScale, null);
